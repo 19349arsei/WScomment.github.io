@@ -1,0 +1,21 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="fbcm.com" resolutions="1x" timestamp="1522253858886">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="3.css" crc="3855943134" ref="3"/>
+    <file name="index.css" crc="3840717422" ref="index"/>
+    <file name="2.css" crc="4226068636" ref="2"/>
+    <file name="1.css" crc="4255568693" ref="1"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:1:2:3"/>
+    <file name="museutils.js" crc="340535759" ref="index:1:2:3"/>
+    <file name="whatinput.js" crc="86476730" ref="index:1:2:3"/>
+    <file name="museconfig.js" crc="310584261" ref="index:1:2:3"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:1:2:3"/>
+    <file name="require.js" crc="7928878" ref="index:1:2:3"/>
+  </folder>
+  <file name="index.html" crc="92466624" seo="true" mt="1522253456326" redirect="true"/>
+  <file name="1.html" crc="3861027629" seo="true" mt="1522253485920" redirect="true"/>
+  <file name="2.html" crc="4008666781" seo="true" mt="1522253490694" redirect="true"/>
+  <file name="3.html" crc="3779231328" seo="true" mt="1522253494647" redirect="true"/>
+</manifest>
